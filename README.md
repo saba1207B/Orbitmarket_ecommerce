@@ -3,11 +3,11 @@
 > A modern, responsive e-commerce storefront built as a full-stack web project with a polished shopping experience and GitHub Pages deployment support.
 
 <p align="center">
-  <a href="https://saba1207b.github.io/CodeAlpha_Orbitmarket_ecommerce/">
+  <a href="https://saba1207b.github.io/Orbitmarket_ecommerce/">
     <strong>🚀 Live Demo</strong>
   </a>
   ·
-  <a href="https://github.com/saba1207B/CodeAlpha_Orbitmarket_ecommerce">
+  <a href="https://github.com/saba1207B/Orbitmarket_ecommerce">
     <strong>📦 Source Code</strong>
   </a>
 </p>
@@ -22,7 +22,7 @@ The project is also prepared for **GitHub Pages**, with an automated GitHub Acti
 
 ### 🌐 Live Demo
 
-**[Open Orbit Market →](https://saba1207b.github.io/CodeAlpha_Orbitmarket_ecommerce/)**
+**[Open Orbit Market →](https://saba1207b.github.io/Orbitmarket_ecommerce/)**
 
 > The live deployment is a frontend demonstration. Account, cart, and order data are intentionally stored locally in the browser rather than processed as real transactions.
 
@@ -71,7 +71,7 @@ The project's package configuration includes React, TypeScript, Vite, Tailwind C
 ## 📁 Project Structure
 
 ```text
-CodeAlpha_Orbitmarket_ecommerce/
+Orbitmarket_ecommerce/
 ├── .github/
 │   └── workflows/
 │       └── deploy-pages.yml
@@ -104,8 +104,8 @@ Make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/saba1207B/CodeAlpha_Orbitmarket_ecommerce.git
-cd CodeAlpha_Orbitmarket_ecommerce
+git clone https://github.com/saba1207B/Orbitmarket_ecommerce.git
+cd Orbitmarket_ecommerce
 ```
 
 ### 2. Install dependencies
@@ -174,7 +174,7 @@ Live Orbit Market website
 
 ### Live URL
 
-🔗 **https://saba1207b.github.io/CodeAlpha_Orbitmarket_ecommerce/**
+🔗 **https://saba1207b.github.io/Orbitmarket_ecommerce/**
 
 ---
 
